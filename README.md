@@ -148,8 +148,8 @@ Publish the website in the LocalHost.
     </div>
 </body>
 </html>
-
 ```
+
 ## OUTPUT:
 
 ![alt text](<Screenshot 2025-05-12 231317.png>)
